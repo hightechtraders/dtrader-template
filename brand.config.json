@@ -1,33 +1,33 @@
 {
-    "brand_name": "Trading Platform",
+    "brand_name": "traderscore",
     "brand_logo": "brand/platform-logo.svg",
     "brand_logo_dark": "brand/platform-logo.svg",
-    "brand_domain": "deriv.com",
+    "brand_domain": "dtrader-template-two.vercel.app",
     "brand_hostname": {
-        "staging": "staging.dtrader-template.pages.dev",
-        "production": "dtrader-template.pages.dev"
+        "staging": "dtrader-template-two.vercel.app",
+        "production": "dtrader-template-two.vercel.app"
     },
     "platform": {
-        "name": "Trading Platform",
+        "name": "traderscore",
         "description": "A whole new trading experience on a powerful yet easy to use platform.",
         "logo": "brand/platform-logo.svg",
-        "home_url": "https://home.deriv.com/dashboard",
-        "help_centre_url": "https://trade.deriv.com/help-centre"
+        "home_url": "https://dtrader-template-two.vercel.app",
+        "help_centre_url": "https://dtrader-template-two.vercel.app"
     },
     "signup_url": {
-        "production": "https://home.deriv.com/dashboard/signup",
-        "staging": "https://staging-home.deriv.com/dashboard/signup"
+        "production": "https://dtrader-template-two.vercel.app",
+        "staging": "https://dtrader-template-two.vercel.app"
     },
     "deposit_url": {
-        "staging": "https://staging.dtrader-template.pages.dev/transfer",
-        "production": "https://dtrader-template.pages.dev/transfer"
+        "staging": "https://dtrader-template-two.vercel.app",
+        "production": "https://dtrader-template-two.vercel.app"
     },
     "auth": {
         "staging": "https://staging-auth.deriv.com",
         "production": "https://auth.deriv.com",
         "oauth_scopes": ["trade", "account_manage"],
-        "oauth_redirect_uri_staging": "https://staging.dtrader-template.pages.dev",
-        "oauth_redirect_uri_production": "https://dtrader-template.pages.dev",
+        "oauth_redirect_uri_staging": "https://dtrader-template-two.vercel.app",
+        "oauth_redirect_uri_production": "https://dtrader-template-two.vercel.app",
         "oauth_app_id": ""
     },
     "derivws": {
@@ -43,8 +43,8 @@
         "production": "api.deriv.com"
     },
     "app_id": {
-        "staging": 16929,
-        "production": 16929
+        "staging": 9231,
+        "production": 9231
     },
     "colors": {
         "primary": "#118e1c",
